@@ -1,0 +1,4 @@
+runner\Runner.class
+step_definations\verify_product_category_functionalities.class
+base\Base.class
+step_definations\Hooks.class
